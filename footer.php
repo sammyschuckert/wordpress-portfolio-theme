@@ -45,7 +45,11 @@
               </div>
         <div class="row">
             <div class="col-xs-12 col-sm-10 credit">
-              <p>&copy; <?php echo date('Y'); ?> crafted with <i class="fa fa-heart fa-fw"></i> by <a href="mailto:me@sammyschuckert.de">Sammy Schuckert</a>. All rights reserved.<a href="/imprint/">Imprint</a>. <a href="/privacy-policy/">Privacy Policy</a>.  I've made my theme publicly available under the GNU GPL V3 at <a href="https://github.com/sammyschuckert/wordpress-portfolio-theme" target="_blank">GitHub</a>.<p>
+              <p>&copy; <?php echo date('Y'); ?> crafted with <i class="fa fa-heart fa-fw"></i> by <a href="mailto:me@sammyschuckert.de">Sammy Schuckert</a>. All rights reserved.<a href="/imprint/">Imprint</a>. <a href="/privacy-policy/">Privacy Policy</a>.</p>
+            </div>
+            <div class="row">
+            <div class="col-xs-12 col-sm-10 credit">
+              <p>I've made my theme publicly available under the GNU General Public License Version 3 at <u><a href="https://github.com/sammyschuckert/wordpress-portfolio-theme" target="_blank">GitHub</a></u>.<p>
             </div>
         </div>
       </div><!-- /container -->

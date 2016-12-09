@@ -205,6 +205,20 @@ my master's degree in Strategic Design at the <a href="http://www.hfg-gmuend.de"
                   </div>
                 </div>
 
+                   <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                    <h4>
+                      Freelancer, Graphic Design
+                    </h4>
+                      <a href="http://die-wegmeister.com" target="_blank"><p>
+                      die wegmeister gmbh
+                    </p></a>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase date">October 2012 - July 2013<p>
+                  </div>
+                </div>
+
                   <div class="row">
                   <div class="col-xs-12 col-sm-7">
                     <h4>
@@ -216,6 +230,80 @@ my master's degree in Strategic Design at the <a href="http://www.hfg-gmuend.de"
                   </div>
                   <div class="col-xs-12 col-sm-5">
                     <p class="text-uppercase date">June 2011 - July 2011<p>
+                  </div>
+                </div>
+
+              </div>  
+          </div> <!-- /row -->
+
+                    <!-- Divider-->
+          <div class="row">
+          <div class="col-xs-12 col-sm-12"> 
+          <hr></hr>
+          </div>
+          </div>
+          <!-- /Divider-->
+
+
+          <div class="row">
+
+              <div class="col-xs-12 col-sm-2"> 
+                  <h3>Awards</h3>
+              </div>
+
+              <div class="col-xs-12 col-sm-10"> 
+                
+
+                <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                  <a href="http://www.app-art-award.org/" target="_blank">
+                    <img style="margin-bottom: 5px;" src="<?php bloginfo('template_url');?>/img/awards/AppArtAward_Logo2-sw.png">
+                    </a>
+                      
+                    <h4 class="no-margin"><a href="http://www.rnz.de/nachrichten/wiesloch_artikel,-Der-Wieslocher-Sammy-Schuckert-holt-den-App-Art-Award-_arid,207586.html" target="_blank">
+                      AppArtAward 2016 – Category Sharing</a>
+                      </h4>
+                      <p>
+                      <a href="http://www.app-art-award.org/" target="_blank">ZKM Karlsruhe</a>
+                    </p>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="no-margin text-uppercase date">July 2016<p>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                  <a href="http://sharebw.de/share-economy-wettbewerb/" target="_blank">
+                    <img style="margin-top:10px;" src="<?php bloginfo('template_url');?>/img/awards/logo_sharebw_s-sw.png">
+                    </a>
+                      
+                    <h4 class="no-margin"><a href="http://sharebw.de/share-economy-wettbewerb/" target="_blank">
+                       Landespreis – Impulsgeber für den digitalen Wandel</a></h4>
+                      <p>
+                      <a href="https://mwk.baden-wuerttemberg.de/fileadmin/redaktion/m-mwk/intern/dateien/Anlagen_PM/2015/103_PM_Preistraeger_Wettbewerb_Share_Economy.pdf" target="_blank">Ministerium für Wissenschaft, Forschung und Kunst</a>
+                    </p>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase" style="margin-top: 10px;">November 2015<p>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                  <a href="http://www.up.co/communities/germany/stuttgart" target="_blank">
+                    <img style="margin-top:25px;" src="<?php bloginfo('template_url');?>/img/awards/sw-stgt-social-impact-2015-logo-sw.png">
+                    </a>
+                      
+                    <h4 class="no-margin"><a href="https://www.facebook.com/100000480873382/posts/1103833682975984/" target="_blank">
+                      Award for Best Pitch</a>
+                      </h4>
+                      <p>
+                      <a href="http://www.up.co/communities/germany/stuttgart" target="_blank">Startup Weekend Stuttgart – Social Impact</a>
+                    </p>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase date">March 2015<p>
                   </div>
                 </div>
 

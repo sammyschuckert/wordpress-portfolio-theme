@@ -1071,3 +1071,10 @@ ul.banner-social-buttons {
     padding: 100px 0px;
   }
 }
+.disabled-btn,
+.disabled-btn:hover,
+.disabled-btn:focus,
+.disabled-btn:active{
+  opacity: 0.65 !important;
+  background-color: #000 !important;
+}

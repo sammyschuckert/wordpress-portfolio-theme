@@ -1,3 +1,4 @@
+var projectsshown =  0;
 jQuery(document).ready(function($){
 	//set animation timing
 	var animationDelay = 2500,
@@ -15,7 +16,20 @@ jQuery(document).ready(function($){
 		revealAnimationDelay = 1500;
 	
 	initHeadline();
-	
+	showProjects();
+
+	$('#loadprojects').click(showProjects);
+
+	function showProjects(){
+		for (i=projectsshown;i<projectsshown+3;i++){
+			$('#project_no_'+i).fadeIn(1000);
+	}
+	projectsshown = projectsshown + 3;
+
+	if (projectsshown>=max_projects){
+		$(this).addClass('disabled-btn');
+	}
+	}
 
 	function initHeadline() {
 		//insert <i> element for each letter of a changing word

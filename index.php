@@ -8,9 +8,9 @@
                             <h1 class="brand-heading">
                             Some Thoughts
                             </h1>
-                        <p class="intro-text">
+                        <h2 class="intro-text">
                           on design and other stuff
-                        </p>
+                        </h2>
                         </div>
                     </div>
                 </div>

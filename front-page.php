@@ -338,7 +338,7 @@ foreach ( $posts as $post ) : setup_postdata( $post );
 $thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'large' );
 $projectimg = $thumb['0'];
 ?>
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+<div id="project_no_<?php echo $i;?>" class="col-xs-12 col-sm-6 col-md-6 col-lg-4" style="display:none;">
                 <div class="project_card">
                 <a href="<?php the_permalink(); ?>">
                   <div class="img-container">
@@ -354,25 +354,16 @@ $projectimg = $thumb['0'];
           $i++;
           endforeach;
           wp_reset_postdata();
-          ?> 
-              <!--- <div class="hidden-xs hidden-lg col-xs-12 col-sm-6 col-md-6 col-lg-4 ">
-                <div class="project_card">
-                <a href="project-detail.html">
-                  <div class="img-container">
-                    <img src="img/project_3.png">
-                  </div>
-                  <div class="text-center">
-                    <h4>Flightguide Tablet-Application</h4>
-                    <p>Interactiondesign</p>
-                  </div></a>
-                </div>
-              </div> -->
+          ?>
+          <script type="text/javascript">
+          	var max_projects=<?php echo sizeof($posts);?>
+          </script> 
             </div><!-- /row --> 
-                <!-- <div class="row">
+                <div class="row">
                 <div class="col-xs-12 col-sm-12">
-                <button type="button" class="btn btn-default btn-lg center-block" data-toggle="alert">More Projects</button>
+                <button id="loadprojects" type="button" class="btn btn-default btn-lg center-block" data-toggle="alert">More Projects</button>
                 </div>
-                </div> -->
+                </div>
       </div>  <!-- /container -->
       </div>
     </section>

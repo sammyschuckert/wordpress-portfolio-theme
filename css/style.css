@@ -248,14 +248,13 @@ a:focus {
 .light {
   font-weight: 400;
 }
-.progress {
+.progress-tag {
   background-color: #ff4848;
-  text-align: center;
-  height: 100%;
-  width: 152px;
-  padding: 8px;
+  text-align: left;
+  padding: 8px 15px;
   color: #fff;
   border-radius: 0;
+  display: table-cell;
 }
 .navbar-custom {
   margin-bottom: 0;

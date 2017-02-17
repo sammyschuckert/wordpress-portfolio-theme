@@ -69,8 +69,7 @@ $headerimg = $thumb['0'];
                 <div class="row">
                   <div class="col-xs-12 col-sm-7">
                     <p>
-                     Hi, I'm <a href="http://www.twitter.com/sammyschuckert" target="_blank">@sammyschuckert</a> a designer born and raised in Germany. Currently I’m writing the thesis for 
-my master's degree in Strategic Design at the <a href="http://www.hfg-gmuend.de" target="_blank">HfG Schwäbisch Gmünd</a>, Germany (University of Applied Sciences). You can check out my progress <a href="http://sammyschuckert.de/projects/adaptive-personalized-user-interfaces/">here</a>. I'm designing it <a href="https://signalvnoise.com/posts/2928-designing-in-the-open" target="_blank">in the open.</a></p>
+                     Hi, I'm <a href="http://www.twitter.com/sammyschuckert" target="_blank">@sammyschuckert</a> a designer born and raised in Germany. I've made my M.A. in Strategic Design at the <a href="http://www.hfg-gmuend.de" target="_blank">HfG Schwäbisch Gmünd</a>, Germany (University of Applied Sciences).</p>
                       <p>I love Star Wars, Pixar and Disney movies, have a deep passion for technology and everything that's digital. I would describe myself as an advocate of the <a href="https://twitter.com/search?q=%23sharingeconomy" target="_blank">#sharingeconomy</a> and a part-time <a href="https://twitter.com/search?q=%23digitalnomad" target="_blank">#digitalnomad</a>.</p>
                       <p>My believe is that design methods have the ability to solve some of the biggest challenges we face in life.</p> 
                       <p>Current projects <a href="http://www.thangsapp.com/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">thangs – stuffsharing with friends</a> and <a href="https://www.dropsale.co/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">Dropsale</a>.
@@ -80,7 +79,7 @@ my master's degree in Strategic Design at the <a href="http://www.hfg-gmuend.de"
                 </div>
                 <div class="row">
                 <div class="col-xs-12 col-sm-12">
-                <a href="http://www.sammyschuckert.de/download/sammy_schuckert_cv_160519.pdf" type="button" class="btn btn-default btn-lg" target="_blank">Download CV (pdf)</a>
+                <a href="http://www.sammyschuckert.de/download/sammy_schuckert_cv_161212.pdf" type="button" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-file-pdf-o fa-fw"></i> Download CV</a>
                 </div>
                 </div>
               </div>  
@@ -112,8 +111,7 @@ my master's degree in Strategic Design at the <a href="http://www.hfg-gmuend.de"
                     </p>
                   </div>
                   <div class="col-xs-12 col-sm-5">
-                    <p class="text-uppercase">Graduating in February 2017<p>
-                      <p class="progress text-uppercase">In Progress</p>
+                    <p class="text-uppercase">March 2015 - February 2017<p>
                   </div>
                 </div>
                   <div class="row">
@@ -222,7 +220,7 @@ my master's degree in Strategic Design at the <a href="http://www.hfg-gmuend.de"
                   <div class="row">
                   <div class="col-xs-12 col-sm-7">
                     <h4>
-                      Internship, Communication Design
+                      Internship, Graphic Design
                     </h4>
                     <a href="http://die-wegmeister.com" target="_blank"><p>
                       die wegmeister gmbh

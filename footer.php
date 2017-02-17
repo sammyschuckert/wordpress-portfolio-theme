@@ -50,7 +50,7 @@
         </div>
         <div class="row">
             <div class="col-xs-12 col-sm-10 credit">
-              <p>I've made my theme publicly available under the GNU General Public License Version 3 on <a href="https://github.com/sammyschuckert/wordpress-portfolio-theme" target="_blank">GitHub</a>.<p>
+              <p>I made my theme publicly available under the GNU General Public License Version 3 on <a href="https://github.com/sammyschuckert/wordpress-portfolio-theme" target="_blank">GitHub</a>.<p>
             </div>
       </div><!-- /container -->
       </div>
@@ -68,7 +68,8 @@
 
     <!-- Custom JavaScript -->
     <script src="<?php bloginfo('template_url');?>/js/javascript.js"></script>
-
+    <!-- Twitter -->
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- Load Social Popup -->
 <script>
   $('.popup').click(function(event) {

@@ -190,7 +190,7 @@ $headerimg = $thumb['0'];
                 </div>
                   <div class="row">
                   <div class="col-xs-12 col-sm-7">
-                    <h4 class="no-margin">
+                    <h4>
                       Co-Founder & CEO (Geschäftsführer)
                     </h4>
                     <a href="http://thangsapp.com" target="_blank"><p>

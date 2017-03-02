@@ -69,7 +69,7 @@ $headerimg = $thumb['0'];
                 <div class="row">
                   <div class="col-xs-12 col-sm-7">
                     <p>
-                     Hi, I'm <a href="http://www.twitter.com/sammyschuckert" target="_blank">@sammyschuckert</a> a designer born and raised in Germany. I've made my M.A. in Strategic Design at the <a href="http://www.hfg-gmuend.de" target="_blank">HfG Schwäbisch Gmünd</a>, Germany (University of Applied Sciences).</p>
+                     Hi, I'm <a href="http://www.twitter.com/sammyschuckert" target="_blank">@sammyschuckert</a> a UX Designer at IBM, born and raised in Germany. I've made my M.A. in Strategic Design at the <a href="http://www.hfg-gmuend.de" target="_blank">HfG Schwäbisch Gmünd</a>, Germany (University of Applied Sciences).</p>
                       <p>I love Star Wars, Pixar and Disney movies, have a deep passion for technology and everything that's digital. I would describe myself as an advocate of the <a href="https://twitter.com/search?q=%23sharingeconomy" target="_blank">#sharingeconomy</a> and a part-time <a href="https://twitter.com/search?q=%23digitalnomad" target="_blank">#digitalnomad</a>.</p>
                       <p>My believe is that design methods have the ability to solve some of the biggest challenges we face in life.</p> 
                       <p>Current projects <a href="http://www.thangsapp.com/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">thangs – stuffsharing with friends</a> and <a href="https://www.dropsale.co/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">Dropsale</a>.
@@ -175,6 +175,19 @@ $headerimg = $thumb['0'];
                   <h3>Experience</h3>
               </div>
               <div class="col-xs-12 col-sm-10"> 
+                <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                    <h4 class="no-margin">
+                      UX Designer
+                    </h4>
+                    <a href="https://www.ibm.com/design/studio.shtml" target="_blank"><p>
+                      IBM Deutschland Research & Development GmbH
+                    </p></a>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase">March 2017 - TODAY<p>
+                  </div>
+                </div>
                   <div class="row">
                   <div class="col-xs-12 col-sm-7">
                     <h4 class="no-margin">

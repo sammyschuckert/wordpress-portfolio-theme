@@ -175,6 +175,7 @@ $headerimg = $thumb['0'];
                   <h3>Experience</h3>
               </div>
               <div class="col-xs-12 col-sm-10"> 
+                
                 <div class="row">
                   <div class="col-xs-12 col-sm-7">
                     <h4 class="no-margin">
@@ -188,19 +189,21 @@ $headerimg = $thumb['0'];
                     <p class="text-uppercase">March 2017 - TODAY<p>
                   </div>
                 </div>
-                  <div class="row">
+
+                <div class="row">
                   <div class="col-xs-12 col-sm-7">
                     <h4>
                       Co-Founder & CEO (Geschäftsführer)
                     </h4>
-                    <a href="http://thangsapp.com" target="_blank"><p>
+                      <a href="http://thangsapp.com" target="_blank"><p>
                       thangs GmbH – stuffsharing with friends
                     </p></a>
                   </div>
                   <div class="col-xs-12 col-sm-5">
-                    <p class="text-uppercase">January 2016 - TODAY<p>
+                    <p class="text-uppercase date">January 2016 - TODAY<p>
                   </div>
                 </div>
+             
 
                 <div class="row">
                   <div class="col-xs-12 col-sm-7">

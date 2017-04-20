@@ -72,7 +72,7 @@ $headerimg = $thumb['0'];
                      Hi, I'm <a href="http://www.twitter.com/sammyschuckert" target="_blank">@sammyschuckert</a> a UX Designer at IBM, born and raised in Germany. I've made my M.A. in Strategic Design at the <a href="http://www.hfg-gmuend.de" target="_blank">HfG Schwäbisch Gmünd</a>, Germany (University of Applied Sciences).</p>
                       <p>I love Star Wars, Pixar and Disney movies, have a deep passion for technology and everything that's digital. I would describe myself as an advocate of the <a href="https://twitter.com/search?q=%23sharingeconomy" target="_blank">#sharingeconomy</a> and a part-time <a href="https://twitter.com/search?q=%23digitalnomad" target="_blank">#digitalnomad</a>.</p>
                       <p>My believe is that design methods have the ability to solve some of the biggest challenges we face in life.</p> 
-                      <p>Current projects <a href="http://www.thangsapp.com/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">thangs – stuffsharing with friends</a>.<!-- and <a href="https://www.dropsale.co/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">Dropsale</a>.-->
+                      <p>Current project: <a href="http://www.thangsapp.com/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">thangs – stuffsharing with friends</a><!-- and <a href="https://www.dropsale.co/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">Dropsale</a>.-->
                     </p>
                   </div>
                   

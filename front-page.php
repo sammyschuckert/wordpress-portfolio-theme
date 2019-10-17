@@ -68,9 +68,9 @@ $headerimg = $thumb['0'];
               <div class="col-xs-12 col-sm-10"> 
                 <div class="row">
                   <div class="col-xs-12 col-sm-7">
-                    <p>Hi, 👋 I'm <a href="http://www.twitter.com/sammyschuckert" target="_blank">@sammyschuckert</a> a 27-year-old UX Designer working at IBM. I was born and raised in <a href="https://goo.gl/maps/QyGjz5DdmU42" target"_blank">Heidelberg, Germany</a> and graduated with an M.A. in strategic design from the <a href="http://www.hfg-gmuend.de" target="_blank">HfG Schwaebisch Gmuend</a> earlier this year.</p>
+                    <p>Hi, 👋 I'm <a href="http://www.twitter.com/sammyschuckert" target="_blank">@sammyschuckert</a> a 29-year-old UX Designer working as a Design Lead at <a href="https://ibm.com/design" target="_blank">IBM</a>. I was born and raised in <a href="https://goo.gl/maps/QyGjz5DdmU42" target"_blank">Heidelberg, Germany</a> and graduated with an M.A. in strategic design from the <a href="http://www.hfg-gmuend.de" target="_blank">HfG Schwaebisch Gmuend</a> earlier 2017.</p>
 
-                     <p>I co-founded a sharing economy startup called <a href="http://www.thangsapp.com/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">thangs – stuffsharing with friends</a> during my studies in 2016. Therefore, my friends would describe me as an advocate of the <a href="https://twitter.com/search?q=%23sharingeconomy" target="_blank">#sharingeconomy</a> and a part-time <a href="https://twitter.com/search?q=%23digitalnomad" target="_blank">#digitalnomad</a> – not the one who is living 24/7 at the beach. 😉</p> 
+                     <p>I co-founded a sharing economy startup called <a href="http://www.thangsapp.com/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">thangs – stuffsharing with friends</a> during my studies in 2016. The company <a href="http://design.thangs.de/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">thangs</a> is now building <a href="https://getlito.co/?utm_source=sammyschuckert_de&utm_medium=website" target="_blank">Lito – a virtual office for remote teams</a>. Therefore, my friends would describe me as an advocate of <a href="https://twitter.com/search?q=%23remotework" target="_blank">#remotework</a> and a part-time <a href="https://twitter.com/search?q=%23digitalnomad" target="_blank">#digitalnomad</a> – not the one who is living 24/7 at the beach. 😉</p> 
 
                       <p>Besides that, I'm a huge Star Wars and Pixar fan, have a deep passion for technology and everything that's digital. It is my belief that human-centered design methods are the key to solving some of the biggest challenges we face today.</p>
                   </div>
@@ -94,6 +94,109 @@ $headerimg = $thumb['0'];
  <section id="vita" class="content-section">
     <div class="vita-section">
       <div class="container">
+
+          <div class="row">
+              <div class="col-xs-12 col-sm-2"> 
+                  <h3>Experience</h3>
+              </div>
+              <div class="col-xs-12 col-sm-10"> 
+                
+                <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                    <h4 class="no-margin">
+                      Design Lead
+                    </h4>
+                    <a href="https://ibm.com/design/" target="_blank"><p>
+                      IBM Deutschland Research & Development GmbH
+                    </p></a>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase">April 2019 - TODAY<p>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                    <h4>
+                      User Experience Designer
+                    </h4>
+                    <a href="https://ibm.com/design/" target="_blank"><p>
+                      IBM Deutschland Research & Development GmbH
+                    </p></a>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase date">March 2017 - March 2019<p>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                    <h4>
+                      Co-Founder & CEO (Geschäftsführer)
+                    </h4>
+                      <a href="http://design.thangs.de" target="_blank"><p>
+                      thangs GmbH
+                    </p></a>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase date">January 2016 - TODAY<p>
+                  </div>
+                </div>
+             
+
+                <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                    <h4>
+                      Internship, Communication Design
+                    </h4>
+                    <a href="http://echtweiss.de" target="_blank"><p>
+                      echtweiß – Corporate & Editorial-Design
+                    </p></a>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase date">September 2013 - February 2014<p>
+                  </div>
+                </div>
+
+                   <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                    <h4>
+                      Freelancer, Graphic Design
+                    </h4>
+                      <a href="http://die-wegmeister.com" target="_blank"><p>
+                      die wegmeister gmbh
+                    </p></a>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase date">October 2012 - July 2013<p>
+                  </div>
+                </div>
+
+                  <div class="row">
+                  <div class="col-xs-12 col-sm-7">
+                    <h4>
+                      Internship, Graphic Design
+                    </h4>
+                    <a href="http://die-wegmeister.com" target="_blank"><p>
+                      die wegmeister gmbh
+                    </p></a>
+                  </div>
+                  <div class="col-xs-12 col-sm-5">
+                    <p class="text-uppercase date">June 2011 - July 2011<p>
+                  </div>
+                </div>
+
+              </div>  
+          </div> <!-- /row -->
+
+          <!-- Divider-->
+          <div class="row">
+          <div class="col-xs-12 col-sm-12"> 
+          <hr></hr>
+          </div>
+          </div>
+          <!-- /Divider-->
+
              <div class="row">
               <div class="col-xs-12 col-sm-2"> 
                   <h3>Education</h3>
@@ -155,94 +258,6 @@ $headerimg = $thumb['0'];
                   </div>
                   <div class="col-xs-12 col-sm-5">
                     <p class="text-uppercase date">September 2001 - July 2007<p>
-                  </div>
-                </div>
-
-              </div>  
-          </div> <!-- /row -->
-
-          <!-- Divider-->
-          <div class="row">
-          <div class="col-xs-12 col-sm-12"> 
-          <hr></hr>
-          </div>
-          </div>
-          <!-- /Divider-->
-
-          <div class="row">
-              <div class="col-xs-12 col-sm-2"> 
-                  <h3>Experience</h3>
-              </div>
-              <div class="col-xs-12 col-sm-10"> 
-                
-                <div class="row">
-                  <div class="col-xs-12 col-sm-7">
-                    <h4 class="no-margin">
-                      UX Designer
-                    </h4>
-                    <a href="https://www.ibm.com/design/studio.shtml" target="_blank"><p>
-                      IBM Deutschland Research & Development GmbH
-                    </p></a>
-                  </div>
-                  <div class="col-xs-12 col-sm-5">
-                    <p class="text-uppercase">March 2017 - TODAY<p>
-                  </div>
-                </div>
-
-                <div class="row">
-                  <div class="col-xs-12 col-sm-7">
-                    <h4>
-                      Co-Founder & CEO (Geschäftsführer)
-                    </h4>
-                      <a href="http://thangsapp.com" target="_blank"><p>
-                      thangs GmbH – stuffsharing with friends
-                    </p></a>
-                  </div>
-                  <div class="col-xs-12 col-sm-5">
-                    <p class="text-uppercase date">January 2016 - TODAY<p>
-                  </div>
-                </div>
-             
-
-                <div class="row">
-                  <div class="col-xs-12 col-sm-7">
-                    <h4>
-                      Internship, Communication Design
-                    </h4>
-                    <a href="http://echtweiss.de" target="_blank"><p>
-                      echtweiß – Corporate & Editorial-Design
-                    </p></a>
-                  </div>
-                  <div class="col-xs-12 col-sm-5">
-                    <p class="text-uppercase date">September 2013 - February 2014<p>
-                  </div>
-                </div>
-
-                   <div class="row">
-                  <div class="col-xs-12 col-sm-7">
-                    <h4>
-                      Freelancer, Graphic Design
-                    </h4>
-                      <a href="http://die-wegmeister.com" target="_blank"><p>
-                      die wegmeister gmbh
-                    </p></a>
-                  </div>
-                  <div class="col-xs-12 col-sm-5">
-                    <p class="text-uppercase date">October 2012 - July 2013<p>
-                  </div>
-                </div>
-
-                  <div class="row">
-                  <div class="col-xs-12 col-sm-7">
-                    <h4>
-                      Internship, Graphic Design
-                    </h4>
-                    <a href="http://die-wegmeister.com" target="_blank"><p>
-                      die wegmeister gmbh
-                    </p></a>
-                  </div>
-                  <div class="col-xs-12 col-sm-5">
-                    <p class="text-uppercase date">June 2011 - July 2011<p>
                   </div>
                 </div>
 

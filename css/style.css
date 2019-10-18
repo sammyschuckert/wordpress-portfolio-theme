@@ -607,7 +607,13 @@ a:focus {
 .intro-blog .intro-body .brand-heading {
   font-size: 40px;
 }
-.intro-blog .intro-body .intro-text {
+.intro-blog .intro-body {
+  font-size: 18px;
+  font-family: "Merriweather", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: italic;
+  text-transform: none;
+}
+.intro-text {
   font-size: 18px;
   font-family: "Merriweather", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
@@ -622,22 +628,19 @@ a:focus {
   .intro-blog .intro-body .brand-heading {
     font-size: 58px;
   }
-  .intro-blog .intro-body .intro-text {
+  .intro-blog .intro-body {
+    font-size: 26px;
+  }
+  .intro-text {
     font-size: 26px;
   }
 }
 .intro {
-  display: table;
   width: 100%;
   height: 100%;
-  padding: 170px 0;
+  margin: 30vh 0;
   text-align: center;
   color: white;
-  background-color: #3399db;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
 }
 .intro .intro-body {
   display: table-cell;
@@ -655,6 +658,7 @@ a:focus {
   .intro {
     height: 100%;
     padding: 0;
+    margin: 45vh 0;
   }
   .intro .intro-body .brand-heading {
     font-size: 58px;
@@ -665,17 +669,17 @@ a:focus {
 }
 .scroll_down {
   position: absolute;
-  bottom: 55px;
   left: 0;
+  top: 70vh;
   height: 75px;
   width: 100%;
   z-index: 100;
 }
-@media (min-width: 768px) {
+@media (min-height: 920px) {
   .scroll_down {
-    bottom: 155px;
-    position: absolute;
-  }
+    top: 85vh;
+   position: absolute;
+ }
 }
 .btn-circle {
   width: 70px;
@@ -741,6 +745,50 @@ a:focus {
     transform: scale(1);
   }
 }
+
+header {
+  position: relative;
+  background-color: #06121a;
+  height: 100vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  max-height: 100vh;
+  min-height: 100vh;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: -moz-linear-gradient(left,  rgba(6,18,26,1) 0%, rgba(6,18,26,1) 6%, rgba(6,18,26,0) 50%, rgba(6,18,26,1) 94%, rgba(6,18,26,1) 100%);
+  background: -webkit-linear-gradient(left,  rgba(6,18,26,1) 0%,rgba(6,18,26,1) 6%,rgba(6,18,26,0) 50%,rgba(6,18,26,1) 94%,rgba(6,18,26,1) 100%);
+  background: linear-gradient(to right,  rgba(6,18,26,1) 0%,rgba(6,18,26,1) 6%,rgba(6,18,26,0) 50%,rgba(6,18,26,1) 94%,rgba(6,18,26,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#06121a', endColorstr='#06121a',GradientType=1 );
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+
+}
+
 .content-section {
   padding-top: 0px;
 }

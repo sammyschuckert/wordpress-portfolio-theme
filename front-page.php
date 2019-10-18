@@ -6,11 +6,15 @@ $thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full' )
 $headerimg = $thumb['0'];
 ?>
     <!-- Intro Header -->
-    <header id="header" class="intro" style="background: #3399db url(<?=$headerimg?>) no-repeat bottom center scroll;   -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;">
-        <div class="intro-body">
+
+    <header id="header">
+  <div class="overlay"></div>
+  <video autoplay="autoplay" loop="loop" muted defaultMuted playsinline oncontextmenu="return false;" preload="auto">
+    <source src="<?php bloginfo('template_url');?>/img/video/scribble.mp4" type="video/mp4">
+      <source src="<?php bloginfo('template_url');?>/img/video/scribble.webm" type="video/webm"> 
+  </video>
+  <div class="container">
+   <div class="intro intro-body">
         <div class="scroll_down">
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
@@ -55,7 +59,9 @@ $headerimg = $thumb['0'];
                     </div>
                 </div>
             </div>
-    </header>
+    </div>
+  </div>
+</header>
 
     <!-- About Section -->
     <section id="about" class="content-section">
